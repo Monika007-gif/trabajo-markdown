@@ -33,3 +33,4 @@ Propiedad: Mejora la circulación sanguínea
 - Arándano
 - Cúrcuma
 
+![Aloe vera](aloe-vera.jpg)
